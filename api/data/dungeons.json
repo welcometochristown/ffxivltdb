@@ -1,0 +1,368 @@
+[
+    {
+        "name" : "Sastasha",
+        "type" : "dungeon",
+        "lodestone_id" : "b229b89b3a8"
+    },
+    {
+        "name" : "The Tam-Tara Deepcroft",
+        "type" : "dungeon",
+        "lodestone_id" : "29e71c3b0a0"
+    },
+    {
+        "name" : "Copperbell Mines",
+        "type" : "dungeon",
+        "lodestone_id" : "29e71c3b0a0"
+    },
+    {
+        "name" : "Halatali",
+        "type" : "dungeon",
+        "lodestone_id" : "619923ac984"
+    },
+    {
+        "name" : "The Thousand Maws of Toto-Rak",
+        "type" : "dungeon",
+        "lodestone_id" : "98319325b98"
+    },
+    {
+        "name" : "Haukke Manor",
+        "type" : "dungeon",
+        "lodestone_id" : "cf7612fa294"
+    },
+    {
+        "name" : "Brayflox's Longstop",
+        "type" : "dungeon",
+        "lodestone_id" : "e371c7ab919"
+    },
+    {
+        "name" : "The Sunken Temple of Qarn",
+        "type" : "dungeon",
+        "lodestone_id" : "b7a48152df9"
+    },
+    {
+        "name" : "Cutter's Cry",
+        "type" : "dungeon",
+        "lodestone_id" : "d601f85dc1e"
+    },
+    {
+        "name" : "The Stone Vigil",
+        "type" : "dungeon",
+        "lodestone_id" : "b6491e1b508"
+    },
+    {
+        "name" : "The Stone Vigil",
+        "type" : "dungeon",
+        "lodestone_id" : "b6491e1b508"
+    },
+    {
+        "name" : "Dzemael Darkhold",
+        "type" : "dungeon",
+        "lodestone_id" : "4a36cbca533"
+    },
+    {
+        "name" : "The Aurum Vale",
+        "type" : "dungeon",
+        "lodestone_id" : "f507633618c"
+    },
+    {
+        "name" : "The Wanderer's Palace",
+        "type" : "dungeon",
+        "lodestone_id" : "3fd66be47b2"
+    },
+    {
+        "name" : "Castrum Meridianum",
+        "type" : "dungeon",
+        "lodestone_id" : "59c2b3b84fa"
+    },
+    {
+        "name" : "The Praetorium",
+        "type" : "dungeon",
+        "lodestone_id" : "2407dbd0cae"
+    },
+    {
+        "name" : "Amdapor Keep",
+        "type" : "dungeon",
+        "lodestone_id" : "ae8a92122ec"
+    },
+    {
+        "name" : "Pharos Sirius",
+        "type" : "dungeon",
+        "lodestone_id" : "a8dd3748467"
+    },
+    {
+        "name" : "Copperbell Mines (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "a780ca9b970"
+    },
+    {
+        "name" : "Haukke Manor (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "61c74c68e00"
+    },
+    {
+        "name" : "The Lost City of Amdapor",
+        "type" : "dungeon",
+        "lodestone_id" : "87d3b951d3d"
+    },
+    {
+        "name" : "Halatali (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "d536b8f0cc8"
+    },
+    {
+        "name" : "Brayflox's Longstop (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "40681f6c94a"
+    },
+    {
+        "name" : "Hullbreaker Isle",
+        "type" : "dungeon",
+        "lodestone_id" : "18aeffad7c5"
+    },
+    {
+        "name" : "The Tam-Tara Deepcroft (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "84d01fe5b6c"
+    },
+    {
+        "name" : "The Stone Vigil (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "418628edfbf"
+    },
+    {
+        "name" : "Snowcloak",
+        "type" : "dungeon",
+        "lodestone_id" : "6f1778eb631"
+    },
+    {
+        "name" : "Sastasha (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "df38ed5c808"
+    },
+    {
+        "name" : "The Sunken Temple of Qarn (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "6b35d4a1179"
+    },
+    {
+        "name" : "The Keeper of the Lake",
+        "type" : "dungeon",
+        "lodestone_id" : "5e75d2059af"
+    },
+    {
+        "name" : "The Wanderer's Palace (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "7c11b0ba080"
+    },
+    {
+        "name" : "Amdapor Keep (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "a4288ecf826"
+    },
+    {
+        "name" : "The Dusk Vigil",
+        "type" : "dungeon",
+        "lodestone_id" : "df5ab8bfd61"
+    },
+    {
+        "name" : "Sohm Al",
+        "type" : "dungeon",
+        "lodestone_id" : "eed0add7a62"
+    },
+    {
+        "name" : "The Aery",
+        "type" : "dungeon",
+        "lodestone_id" : "339c4923556"
+    },
+    {
+        "name" : "The Vault",
+        "type" : "dungeon",
+        "lodestone_id" : "a62f7ee3718"
+    },
+    {
+        "name" : "The Great Gubal Library",
+        "type" : "dungeon",
+        "lodestone_id" : "f368b40c648"
+    },
+    {
+        "name" : "The Aetherochemical Research Facility",
+        "type" : "dungeon",
+        "lodestone_id" : "923e0a1d1d0"
+    },
+    {
+        "name" : "Neverreap",
+        "type" : "dungeon",
+        "lodestone_id" : "618168354ea"
+    },
+    {
+        "name" : "The Fractal Continuum",
+        "type" : "dungeon",
+        "lodestone_id" : "c39cf50a6a5"
+    },
+    {
+        "name" : "Saint Mocianne's Arboretum",
+        "type" : "dungeon",
+        "lodestone_id" : "cdad1cb65e8"
+    },
+    {
+        "name" : "Pharos Sirius (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "cd500c08682"
+    },
+    {
+        "name" : "The Antitower",
+        "type" : "dungeon",
+        "lodestone_id" : "36e172ff46c"
+    },
+    {
+        "name" : "The Lost City of Amdapor (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "193a96b0fa4"
+    },
+    {
+        "name" : "Sohr Khai",
+        "type" : "dungeon",
+        "lodestone_id" : "a8c7c5c13bd"
+    },
+    {
+        "name" : "Hullbreaker Isle (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "313b1415d0f"
+    },
+    {
+        "name" : "Xelphatol",
+        "type" : "dungeon",
+        "lodestone_id" : "1d95a773990"
+    },
+    {
+        "name" : "The Great Gubal Library (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "d6e98e35e6f"
+    },
+    {
+        "name" : "Baelsar's Wall",
+        "type" : "dungeon",
+        "lodestone_id" : "bc72ef27ade"
+    },
+    {
+        "name" : "Sohm Al (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "9bd9004a140"
+    },
+    {
+        "name" : "The Sirensong Sea",
+        "type" : "dungeon",
+        "lodestone_id" : "471227e1ee7"
+    },
+    {
+        "name" : "Shisui of the Violet Tides",
+        "type" : "dungeon",
+        "lodestone_id" : "39ba54ada1c"
+    },
+    {
+        "name" : "Bardam's Mettle",
+        "type" : "dungeon",
+        "lodestone_id" : "53d7100d839"
+    },
+    {
+        "name" : "Doma Castle",
+        "type" : "dungeon",
+        "lodestone_id" : "cd924bd8eac"
+    },
+    {
+        "name" : "Castrum Abania",
+        "type" : "dungeon",
+        "lodestone_id" : "e635797754f"
+    },
+    {
+        "name" : "Ala Mhigo",
+        "type" : "dungeon",
+        "lodestone_id" : "c71bb06e67b"
+    },
+    {
+        "name" : "Kugane Castle",
+        "type" : "dungeon",
+        "lodestone_id" : "37d0e83919d"
+    },
+    {
+        "name" : "The Temple of the Fist",
+        "type" : "dungeon",
+        "lodestone_id" : "23edcb0d626"
+    },
+    {
+        "name" : "The Drowned City of Skalla",
+        "type" : "dungeon",
+        "lodestone_id" : "47ef709fb04"
+    },
+    {
+        "name" : "Hells' Lid",
+        "type" : "dungeon",
+        "lodestone_id" : "f9ab5899e9d"
+    },
+    {
+        "name" : "The Fractal Continuum (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "b8bea03880d"
+    },
+    {
+        "name" : "The Swallow's Compass",
+        "type" : "dungeon",
+        "lodestone_id" : "35ed52cf463"
+    },
+    {
+        "name" : "The Burn",
+        "type" : "dungeon",
+        "lodestone_id" : "c8608c977a6"
+    },
+    {
+        "name" : "Saint Mocianne's Arboretum (Hard)",
+        "type" : "dungeon",
+        "lodestone_id" : "25cf070eeb4"
+    },
+    {
+        "name" : "The Ghimlyt Dark",
+        "type" : "dungeon",
+        "lodestone_id" : "33a05f144e4"
+    },
+    {
+        "name" : "Holminster Switch",
+        "type" : "dungeon",
+        "lodestone_id" : "a6165958a5c"
+    },
+    {
+        "name" : "Dohn Mheg",
+        "type" : "dungeon",
+        "lodestone_id" : "5f9f024b774"
+    },
+    {
+        "name" : "The Qitana Ravel",
+        "type" : "dungeon",
+        "lodestone_id" : "3aff2d6760c"
+    },
+    {
+        "name" : "Malikah's Well",
+        "type" : "dungeon",
+        "lodestone_id" : "f8fff809d77"
+    },
+    {
+        "name" : "Mt. Gulg",
+        "type" : "dungeon",
+        "lodestone_id" : "72f2e86daba"
+    },
+    {
+        "name" : "Amaurot",
+        "type" : "dungeon",
+        "lodestone_id" : "c5de427bfef"
+    },
+    {
+        "name" : "The Twinning",
+        "type" : "dungeon",
+        "lodestone_id" : "be6a14f45a6"
+    },
+    {
+        "name" : "Akadaemia Anyder",
+        "type" : "dungeon",
+        "lodestone_id" : "d2b053e4e31"
+    }
+  
+]

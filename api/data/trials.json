@@ -1,0 +1,317 @@
+[
+    {
+        "name" : "The Bowl of Embers",
+        "type" : "trial",
+        "lodestone_id" : "c3e6020e9e6"
+    },
+    {
+        "name" : "The Navel",
+        "type" : "trial",
+        "lodestone_id" : "859d01176cd"
+    },
+    {
+        "name" : "The Howling Eye",
+        "type" : "trial",
+        "lodestone_id" : "9c8db3d95b6"
+    },
+    {
+        "name" : "Cape Westwind",
+        "type" : "trial",
+        "lodestone_id" : "d85fe0d02a1"
+    },
+    {
+        "name" : "The Chrysalis",
+        "type" : "trial",
+        "lodestone_id" : "2fac3746c16"
+    },
+    {
+        "name" : "The Steps of Faith",
+        "type" : "trial",
+        "lodestone_id" : "f80af21461f"
+    },
+    {
+        "name" : "A Relic Reborn: the Chimera",
+        "type" : "trial",
+        "lodestone_id" : "decf353d4e7"
+    },
+    {
+        "name" : "A Relic Reborn: the Hydra",
+        "type" : "trial",
+        "lodestone_id" : "c87fbc421a0"
+    },
+    {
+        "name" : "Battle on the Big Bridge",
+        "type" : "trial",
+        "lodestone_id" : "c370021f429"
+    },
+    {
+        "name" : "The Dragon's Neck",
+        "type" : "trial",
+        "lodestone_id" : "a74020d08e8"
+    },
+    {
+        "name" : "Battle in the Big Keep",
+        "type" : "trial",
+        "lodestone_id" : "cb876745bce"
+    },
+    {
+        "name" : "The Bowl of Embers (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "2640986aff3"
+    },
+    {
+        "name" : "The Howling Eye (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "b74b4328a17"
+    },
+    {
+        "name" : "The Navel (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "349d6ca4465"
+    },
+    {
+        "name" : "Thornmarch (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "6a88aecaec1"
+    },
+    {
+        "name" : "The Whorleater (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "a9147177b7a"
+    },
+    {
+        "name" : "The Striking Tree (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "520ffafb60d"
+    },
+    {
+        "name" : "Akh Afah Amphitheatre (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "c38bedcfa46"
+    },
+    {
+        "name" : "Urth's Fount",
+        "type" : "trial",
+        "lodestone_id" : "21d8c5bd54b"
+    },
+    {
+        "name" : "The Minstrel's Ballad: Ultima's Bane",
+        "type" : "trial",
+        "lodestone_id" : "0de44d2eccf"
+    },
+    {
+        "name" : "The Howling Eye (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "7c17ae70cc6"
+    },
+    {
+        "name" : "The Navel (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "589c727302e"
+    },
+    {
+        "name" : "The Bowl of Embers (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "6af1a94ccca"
+    },
+    {
+        "name" : "Thornmarch (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "b7c47c44490"
+    },
+    {
+        "name" : "The Whorleater (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "0850a8627aa"
+    },
+    {
+        "name" : "The Striking Tree (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "4d8cae741db"
+    },
+    {
+        "name" : "Akh Afah Amphitheatre (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "5f786d57228"
+    },
+    {
+        "name" : "Thok ast Thok (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "f55bdb9e34e"
+    },
+    {
+        "name" : "The Limitless Blue (Hard)",
+        "type" : "trial",
+        "lodestone_id" : "26fe48f4631"
+    },
+    {
+        "name" : "The Singularity Reactor",
+        "type" : "trial",
+        "lodestone_id" : "12c172943bc"
+    },
+    {
+        "name" : "The Final Steps of Faith",
+        "type" : "trial",
+        "lodestone_id" : "2caf2e26f12"
+    },
+    {
+        "name" : "Containment Bay S1T7",
+        "type" : "trial",
+        "lodestone_id" : "08c9d224d28"
+    },
+    {
+        "name" : "Containment Bay P1T6",
+        "type" : "trial",
+        "lodestone_id" : "83e0064270d"
+    },
+    {
+        "name" : "Containment Bay Z1T9",
+        "type" : "trial",
+        "lodestone_id" : "8ff3c52798c"
+    },
+    {
+        "name" : "The Limitless Blue (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "e9bb63551a4"
+    },
+    {
+        "name" : "Thok ast Thok (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "83f028575c8"
+    },
+    {
+        "name" : "The Minstrel's Ballad: Thordan's Reign",
+        "type" : "trial",
+        "lodestone_id" : "a8a4860068c"
+    },
+    {
+        "name" : "The Minstrel's Ballad: Nidhogg's Rage",
+        "type" : "trial",
+        "lodestone_id" : "0e880006330"
+    },
+    {
+        "name" : "Containment Bay S1T7 (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "e05c982993d"
+    },
+    {
+        "name" : "Containment Bay P1T6 (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "212ceb19a34"
+    },
+    {
+        "name" : "Containment Bay Z1T9 (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "26a86785be9"
+    },
+    {
+        "name" : "The Pool of Tribute",
+        "type" : "trial",
+        "lodestone_id" : "5806cb2d995"
+    },
+    {
+        "name" : "Emanation",
+        "type" : "trial",
+        "lodestone_id" : "7992a4eab66"
+    },
+    {
+        "name" : "The Royal Menagerie",
+        "type" : "trial",
+        "lodestone_id" : "13be0500007"
+    },
+    {
+        "name" : "Castrum Fluminis",
+        "type" : "trial",
+        "lodestone_id" : "10fe97ad942"
+    },
+    {
+        "name" : "Kugane Ohashi",
+        "type" : "trial",
+        "lodestone_id" : "bad56c435a5"
+    },
+    {
+        "name" : "The Great Hunt",
+        "type" : "trial",
+        "lodestone_id" : "a8b065d443b"
+    },
+    {
+        "name" : "The Jade Stoa",
+        "type" : "trial",
+        "lodestone_id" : "f1fc9fb6093"
+    },
+    {
+        "name" : "Hells' Kier",
+        "type" : "trial",
+        "lodestone_id" : "ea0f6440546"
+    },
+    {
+        "name" : "The Wreath of Snakes",
+        "type" : "trial",
+        "lodestone_id" : "c19b83441e4"
+    },
+    {
+        "name" : "The Pool of Tribute (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "b28f61e6212"
+    },
+    {
+        "name" : "Emanation (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "7de6a27d145"
+    },
+    {
+        "name" : "The Minstrel's Ballad: Shinryu's Domain",
+        "type" : "trial",
+        "lodestone_id" : "8c829b8dd8c"
+    },
+    {
+        "name" : "The Minstrel's Ballad: Tsukuyomi's Pain",
+        "type" : "trial",
+        "lodestone_id" : "0919d2674e0"
+    },
+    {
+        "name" : "The Great Hunt (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "52328939737"
+    },
+    {
+        "name" : "The Jade Stoa (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "44fc4abc0eb"
+    },
+    {
+        "name" : "Hells' Kier (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "628e9a05d34"
+    },
+    {
+        "name" : "The Wreath of Snakes (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "c79d50c803d"
+    },
+    {
+        "name" : "The Dancing Plague",
+        "type" : "trial",
+        "lodestone_id" : "dbf2007968d"
+    },
+    {
+        "name" : "The Crown of the Immaculate",
+        "type" : "trial",
+        "lodestone_id" : "0b1d4434e26"
+    },
+    {
+        "name" : "The Dying Gasp",
+        "type" : "trial",
+        "lodestone_id" : "6b31d339381"
+    },
+    {
+        "name" : "The Dancing Plague (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "bad53f19540"
+    },
+    {
+        "name" : "The Crown of the Immaculate (Extreme)",
+        "type" : "trial",
+        "lodestone_id" : "55504d0495f"
+    }
+]

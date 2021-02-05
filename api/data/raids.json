@@ -1,0 +1,382 @@
+[
+    {
+        "name" : "The Labyrinth of the Ancients",
+        "type" : "raid",
+        "lodestone_id" : "d9f4e986d0e"
+    },
+    {
+        "name" : "Syrcus Tower",
+        "type" : "raid",
+        "lodestone_id" : "47eb1d018b6"
+    },
+    {
+        "name" : "The World of Darkness",
+        "type" : "raid",
+        "lodestone_id" : "7f0a3551ab6"
+    },
+    {
+        "name" : "The Binding Coil of Bahamut - Turn 1",
+        "type" : "raid",
+        "lodestone_id" : "fade6531524"
+    },
+    {
+        "name" : "The Binding Coil of Bahamut - Turn 2",
+        "type" : "raid",
+        "lodestone_id" : "9c359c635d7"
+    },
+    {
+        "name" : "The Binding Coil of Bahamut - Turn 3",
+        "type" : "raid",
+        "lodestone_id" : "e67a875fc85"
+    },
+    {
+        "name" : "The Binding Coil of Bahamut - Turn 4",
+        "type" : "raid",
+        "lodestone_id" : "f5e0e0bdfbe"
+    },
+    {
+        "name" : "The Binding Coil of Bahamut - Turn 5",
+        "type" : "raid",
+        "lodestone_id" : "7134211f501"
+    },
+    {
+        "name" : "The Second Coil of Bahamut - Turn 1",
+        "type" : "raid",
+        "lodestone_id" : "744fe0d9e6e"
+    },
+    {
+        "name" : "The Second Coil of Bahamut - Turn 2",
+        "type" : "raid",
+        "lodestone_id" : "400cba1a77d"
+    },
+    {
+        "name" : "The Second Coil of Bahamut - Turn 3",
+        "type" : "raid",
+        "lodestone_id" : "87e821480bb"
+    },
+    {
+        "name" : "The Second Coil of Bahamut - Turn 4",
+        "type" : "raid",
+        "lodestone_id" : "1fed5f286f0"
+    },
+    {
+        "name" : "The Final Coil of Bahamut - Turn 1",
+        "type" : "raid",
+        "lodestone_id" : "debdbcb0b6a"
+    },
+    {
+        "name" : "The Final Coil of Bahamut - Turn 2",
+        "type" : "raid",
+        "lodestone_id" : "bcb01b1b218"
+    },
+    {
+        "name" : "The Final Coil of Bahamut - Turn 3",
+        "type" : "raid",
+        "lodestone_id" : "d23c00881c6"
+    },
+    {
+        "name" : "The Final Coil of Bahamut - Turn 4",
+        "type" : "raid",
+        "lodestone_id" : "f086f0517d0"
+    },
+    {
+        "name" : "The Second Coil of Bahamut (Savage) - Turn 1",
+        "type" : "raid",
+        "lodestone_id" : "80a9ef97b78"
+    },
+    {
+        "name" : "The Second Coil of Bahamut (Savage) - Turn 2",
+        "type" : "raid",
+        "lodestone_id" : "853b4775a42"
+    },
+    {
+        "name" : "The Second Coil of Bahamut (Savage) - Turn 3",
+        "type" : "raid",
+        "lodestone_id" : "a674fe41a1a"
+    },
+    {
+        "name" : "The Second Coil of Bahamut (Savage) - Turn 4",
+        "type" : "raid",
+        "lodestone_id" : "0065196fbe4"
+    },
+    {
+        "name" : "The Void Ark",
+        "type" : "raid",
+        "lodestone_id" : "07fc9cb5bc8"
+    },
+    {
+        "name" : "The Weeping City of Mhach",
+        "type" : "raid",
+        "lodestone_id" : "b0a1515fd3d"
+    },
+    {
+        "name" : "Dun Scaith",
+        "type" : "raid",
+        "lodestone_id" : "35a8825ed8e"
+    },
+    {
+        "name" : "Alexander - The Fist of the Father",
+        "type" : "raid",
+        "lodestone_id" : "5877d34ab3d"
+    },
+    {
+        "name" : "Alexander - The Cuff of the Father",
+        "type" : "raid",
+        "lodestone_id" : "157799be6d1"
+    },
+    {
+        "name" : "Alexander - The Arm of the Father",
+        "type" : "raid",
+        "lodestone_id" : "16d0ba16753"
+    },
+    {
+        "name" : "Alexander - The Burden of the Father",
+        "type" : "raid",
+        "lodestone_id" : "0e9dbcd3e88"
+    },
+    {
+        "name" : "Alexander - The Fist of the Son",
+        "type" : "raid",
+        "lodestone_id" : "39c6854e6a8"
+    },
+    {
+        "name" : "Alexander - The Cuff of the Son",
+        "type" : "raid",
+        "lodestone_id" : "1a42720a2b8"
+    },
+    {
+        "name" : "Alexander - The Arm of the Son",
+        "type" : "raid",
+        "lodestone_id" : "b919a88ec20"
+    },
+    {
+        "name" : "Alexander - The Burden of the Son",
+        "type" : "raid",
+        "lodestone_id" : "d3146ecb9f8"
+    },
+    {
+        "name" : "Alexander - The Eyes of the Creator",
+        "type" : "raid",
+        "lodestone_id" : "91e7c2d4647"
+    },
+    {
+        "name" : "Alexander - The Breath of the Creator",
+        "type" : "raid",
+        "lodestone_id" : "54cc9b3db16"
+    },
+    {
+        "name" : "Alexander - The Heart of the Creator",
+        "type" : "raid",
+        "lodestone_id" : "3c58fc35be5"
+    },
+    {
+        "name" : "Alexander - The Soul of the Creator",
+        "type" : "raid",
+        "lodestone_id" : "5516e8fd14f"
+    },
+    {
+        "name" : "Alexander - The Fist of the Father (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "747c862dc22"
+    },
+    {
+        "name" : "Alexander - The Cuff of the Father (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "820a11812ab"
+    },
+    {
+        "name" : "Alexander - The Arm of the Father (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "aa5e1798294"
+    },
+    {
+        "name" : "Alexander - The Burden of the Father (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "fd7aa157f29"
+    },
+    {
+        "name" : "Alexander - The Fist of the Son (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "2cf52917501"
+    },
+    {
+        "name" : "Alexander - The Cuff of the Son (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "0ed79e8abf3"
+    },
+    {
+        "name" : "Alexander - The Arm of the Son (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "e003bd330e2"
+    },
+    {
+        "name" : "Alexander - The Burden of the Son (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "f93d68d7d3c"
+    },
+    {
+        "name" : "Alexander - The Eyes of the Creator (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "20c0e4f75a6"
+    },
+    {
+        "name" : "Alexander - The Breath of the Creator (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "d5f9f998466"
+    },
+    {
+        "name" : "Alexander - The Heart of the Creator (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "a1ebaba1ae8"
+    },
+    {
+        "name" : "Alexander - The Soul of the Creator (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "def61a894af"
+    },
+    {
+        "name" : "The Royal City of Rabanastre",
+        "type" : "raid",
+        "lodestone_id" : "56209386296"
+    },
+    {
+        "name" : "The Ridorana Lighthouse",
+        "type" : "raid",
+        "lodestone_id" : "390fb10fd68"
+    },
+    {
+        "name" : "The Orbonne Monastery",
+        "type" : "raid",
+        "lodestone_id" : "95dbcc947db"
+    },
+    {
+        "name" : "Deltascape V1.0",
+        "type" : "raid",
+        "lodestone_id" : "8e7cf4fcca2"
+    },
+    {
+        "name" : "Deltascape V2.0",
+        "type" : "raid",
+        "lodestone_id" : "9322cea310c"
+    },
+    {
+        "name" : "Deltascape V3.0",
+        "type" : "raid",
+        "lodestone_id" : "1d0f4877cf2"
+    },
+    {
+        "name" : "Deltascape V4.0",
+        "type" : "raid",
+        "lodestone_id" : "76f228004f2"
+    },
+    {
+        "name" : "Sigmascape V1.0",
+        "type" : "raid",
+        "lodestone_id" : "98bb0f8e2f5"
+    },
+    {
+        "name" : "Sigmascape V2.0",
+        "type" : "raid",
+        "lodestone_id" : "e89c7361d67"
+    },
+    {
+        "name" : "Sigmascape V3.0",
+        "type" : "raid",
+        "lodestone_id" : "dd9b573806a"
+    },
+    {
+        "name" : "Sigmascape V4.0",
+        "type" : "raid",
+        "lodestone_id" : "f6bdf734a4a"
+    },
+    {
+        "name" : "Alphascape V1.0",
+        "type" : "raid",
+        "lodestone_id" : "4cdb4098c20"
+    },
+    {
+        "name" : "Alphascape V2.0",
+        "type" : "raid",
+        "lodestone_id" : "43a122b16c2"
+    },
+    {
+        "name" : "Alphascape V3.0",
+        "type" : "raid",
+        "lodestone_id" : "0b697689a12"
+    },
+    {
+        "name" : "Alphascape V4.0",
+        "type" : "raid",
+        "lodestone_id" : "6164ec419fe"
+    },
+    {
+        "name" : "Deltascape V1.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "7ba45eb83a8"
+    },
+    {
+        "name" : "Deltascape V2.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "8e638aa5413"
+    },
+    {
+        "name" : "Deltascape V3.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "1b57dd15e71"
+    },
+    {
+        "name" : "Deltascape V4.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "0b519d7fd00"
+    },
+    {
+        "name" : "Sigmascape V1.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "c6a225d5436"
+    },
+    {
+        "name" : "Sigmascape V2.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "be562bd1bdc"
+    },
+    {
+        "name" : "Sigmascape V3.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "6196f1cd409"
+    },
+    {
+        "name" : "Sigmascape V4.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "28d9a03c886"
+    },
+    {
+        "name" : "Alphascape V1.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "da2590c3569"
+    },
+    {
+        "name" : "Alphascape V2.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "aa718108575"
+    },
+    {
+        "name" : "Alphascape V3.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "5e1eccd3304"
+    },
+    {
+        "name" : "Alphascape V4.0 (Savage)",
+        "type" : "raid",
+        "lodestone_id" : "33360b27f26"
+    },
+    {
+        "name" : "The Unending Coil of Bahamut (Ultimate)",
+        "type" : "raid",
+        "lodestone_id" : "1a863f1ea3b"
+    },
+    {
+        "name" : "The Weapon's Refrain (Ultimate)",
+        "type" : "raid",
+        "lodestone_id" : "e6c2c586ba6"
+    }
+]
